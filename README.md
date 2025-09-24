@@ -1,6 +1,9 @@
 # Community Board
 
-A React app that displays community events in a responsive card layout.  
+A React app that displays community events in a responsive card layout. 
+
+<img width="1355" height="729" alt="Screenshot 2025-09-23 at 11 22 02 PM" src="https://github.com/user-attachments/assets/905cda37-65fb-4e1e-9658-d9453c054735" />
+
 
 ## Theme
 
